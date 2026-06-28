@@ -6,6 +6,27 @@
 被钱绑住是最深的不自由——不得不接受你不认同的条件，因为你没有退出的能力。
 这个系统的所有设计，底层都是在建**退出权**。
 
+
+Health System
+    ↓
+身体自由
+
+Financial System
+    ↓
+财务自由
+
+Cognitive System
+    ↓
+精神清晰
+
+Play System
+    ↓
+生活活力
+
+Orchestrator
+    ↓
+选择自由
+
 ---
 
 ## 锚点
